@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\srs\.android\build-cache\25256cadcc5c4408410174350f3cfe1786280f54\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_448b47df32d7e6ce52fbf86d84d5bfeb03e57e3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srs\.android\build-cache\10a1b7e00a69e1538b3f96e233190705233a2d5c\output\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_51293107f850b6c4d9261194da54a2e14bb6fc45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srs\.android\build-cache\409f0933cca20267be130970264b5e66b913da92\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1aa9b9592a84cdfc6412327301a23bf130907901\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srs\.android\build-cache\10a1b7e00a69e1538b3f96e233190705233a2d5c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2eb8c745aa337fd4b1d049c44b7e4cc21afd4405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_af4a1db408dcf056e67149385859ad73921f0a78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srs\.android\build-cache\9b0f154c5b29d53e63942284318d55f0f7e529ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1378653cae106a8cb396d77e823b5a587c6492e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srs\.android\build-cache\b3503fc9932200ae9874d9285f16243aec90f1a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf5ed767cd650fe35b7f891caaee4f574e77fd53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1019e7d96b263e2a77d6480e53d2079b87d76b0a">
+        <dex dex="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5c99c1c940b99311ac98c0bcb74071fe19aa9684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srs\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_46230d97acc554f9fd5a3754ca9c073ba565b9a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\srs\.android\build-cache\52daab333b0bfb7896271995710e687b51ce4d4d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\AndroidStudio\ActionBarCompat-ShareActionProvider\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6f9f9857e2b68af4c0ff807f779d2c6f2d6b08a\classes.dex" />
+    </item>
+
+</items>

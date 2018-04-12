@@ -1,0 +1,7 @@
+#Wed Oct 04 22:22:37 CEST 2017
+base.0=E\:\\AndroidStudio\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5c99c1c940b99311ac98c0bcb74071fe19aa9684
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AndroidStudio\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_af4a1db408dcf056e67149385859ad73921f0a78\\classes.dex
+base.1=E\:\\AndroidStudio\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_af4a1db408dcf056e67149385859ad73921f0a78
+file.0=E\:\\AndroidStudio\\ActionBarCompat-ShareActionProvider\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5c99c1c940b99311ac98c0bcb74071fe19aa9684\\classes.dex
